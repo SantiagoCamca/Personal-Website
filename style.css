@@ -11,7 +11,7 @@ body {
     height: 200px;
     width: 200px;
     margin: 20px auto;
-  
+   margin-top: 80px;
     display: flex;
 
     justify-content: center;
@@ -34,8 +34,9 @@ body {
     display: none;
   }
   .text-above {
-      top: -120px; /* Ajusta la posición vertical del texto 
+      top: -145px; /* Ajusta la posición vertical del texto 
     arriba de la flor */
+    padding-bottom: 30px;
   
   }
   button{
@@ -49,7 +50,7 @@ body {
   }
   
   .text-below {
-      bottom: -60px; /* Ajusta la posición vertical del texto debajo de la flor */
+      bottom: -20px; /* Ajusta la posición vertical del texto debajo de la flor */
   }
   .text-belo{
     font-size:12px;
